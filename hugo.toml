@@ -43,3 +43,9 @@ theme = 'paper'
     name = "Contact"
     url = "/contact/"
     weight = 10
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projeler"
+    url = "/projects/"
+    weight = 20
