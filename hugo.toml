@@ -46,6 +46,6 @@ theme = 'paper'
 
   [[menu.main]]
     identifier = "projects"
-    name = "Projeler"
+    name = "Projects"
     url = "/projects/"
     weight = 20
