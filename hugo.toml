@@ -6,10 +6,10 @@ theme = 'paper'
 [params]
   color = 'linen' # linen, wheat, gray, light
 
-  twitter = 'ahmetmkorkmaz'
-  github = 'ahmetkorkmaz3'
-  instagram = 'ahmetkorkmaz3'
-  linkedin = 'muratahmetkorkmaz'
+  # twitter = 'ahmetmkorkmaz'
+  # github = 'ahmetkorkmaz3'
+  # instagram = 'ahmetkorkmaz3'
+  # linkedin = 'muratahmetkorkmaz'
 
   avatar = 'https://1.gravatar.com/avatar/3a1b8c26f05da76fd7bff0540005fe0f5dab53098c066523b468542221e23270?size=256'
   name = 'Ahmet Korkmaz'
