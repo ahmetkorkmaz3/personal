@@ -14,7 +14,7 @@ Projeyi lokalde çalıştırmak için:
 1. Hugo'yu yükleyin (https://gohugo.io/installation/)
 2. Repository'yi klonlayın:
    ```bash
-   git clone https://github.com/ahmetkorkmaz3/ahmetkorkmaz.co.git
+   git clone git@github.com:ahmetkorkmaz3/personal.git
    cd ahmetkorkmaz.co
    ```
 3. Geliştirme sunucusunu başlatın:
