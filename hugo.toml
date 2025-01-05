@@ -4,6 +4,7 @@ title = 'Ahmet Korkmaz'
 theme = 'paper'
 
 [params]
+  baseURL = 'https://ahmetkorkmaz.co'
   color = 'linen' # linen, wheat, gray, light
 
   # twitter = 'ahmetmkorkmaz'
