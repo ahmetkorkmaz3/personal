@@ -1,6 +1,6 @@
 # ahmetkorkmaz.co
 
-Bu repository, [ahmetkorkmaz.co](https://ahmetkorkmaz.co) kişisel web sitesinin kaynak kodlarını içermektedir.
+Bu repository, [ahmetkorkmaz.co](https://ahmetkorkmaz.co) kişisel web sitesinin kaynak kodlarını içermektedir..
 
 ## Teknolojiler
 
